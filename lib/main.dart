@@ -1,4 +1,4 @@
-import<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
     <meta charset="UTF-8">
@@ -95,7 +95,7 @@ import<!DOCTYPE html>
         </div>
     </div>
 </body>
-</html> 'dart:convert';
+</html>import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:shared_preferences/shared_preferences.dart';
